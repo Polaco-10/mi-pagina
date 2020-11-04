@@ -1,0 +1,25 @@
+* {color: black;}
+p, strong {   color: green;}
+h1 {
+    border-bottom: double 4px blue;
+    display: inline;
+}
+h2 {
+    color: orange;
+    background-color: palegoldenrod;
+    display: inline;
+}
+li {font-size: 2e;}
+
+li strong{ color: blue;}
+
+.texto-importante{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#divSantaFe, #divEntreRio, #divCordoba, #contenedorPagina{
+    display: none;
+}
+
+.TituloProvincia 
